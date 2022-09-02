@@ -1,0 +1,119 @@
+body { background-color: #ffffcc;
+       color: #330000;
+		font-family: Verdana, Arial, sans-serif;
+		background-image: url("Pictures/animegirl.jpg");
+		background-size:cover;
+		
+	}
+	
+table.center{ margin-left:auto;
+             margin-right:auto;}
+  	
+h1 { background-color: #312927; 
+       color: #DDD3C9; 
+       text-align: center;
+	   font-family: Impact, Georgia, sans-serif;
+	   line-height: 200%; }
+
+      
+	   
+h2	{background-color: #312927; 
+       padding-left: 10px;
+	   color: #DDD3C9;
+	   font-size: 1.2em; 
+	   padding-bottom: 5px;
+	   text-align: center;
+	   }   
+h3 {
+	background-color: #312927; 
+       padding-left: 10px;
+	   color: #DDD3C9;
+	   font-size: 1.2em; 
+	   padding-bottom: 5px;
+	   text-align: center;
+}
+nav  { text-align: center; }
+
+
+nav ul { list-style-type: none; 
+         margin-left: 0;
+         padding: 10px;
+		 
+}
+nav a { text-decoration: none;
+        padding: 10px;
+        font-weight: bold;
+}
+main a { text-decoration: none;
+        font-weight: bold;
+}
+
+footer a { text-decoration: none;
+        font-weight: bold;
+}
+
+ol{ text-align: left;}
+
+
+nav a:link { color: #DDD3C9; }
+nav a:visited { color: #977144;}
+nav a:hover { color: #000066; }
+
+main a:link { color: #DDD3C9; }
+main a:visited { color: #977144;}
+main a:hover { color: #000066; }
+
+footer a:link { color: #DDD3C9; }
+footer a:visited { color: #977144;}
+footer a:hover { color: #000066; }
+
+main{	padding-bottom:25px;
+		text-align:center;
+		color:#E3E1CC; }
+
+iframe { padding-left:225px;
+padding-right: 225px;}
+
+footer   { color: #977144;
+           font-size: .60em;
+		   padding-left:10px;
+		   padding-bottom:10px;
+           font-style: italic; 
+		   background-color: #4B332F;
+		   text-align: center; }
+		   		   
+img 	{border: 0;}
+	.details{padding-left:20%;
+
+		padding-right:20%;}
+
+.centered {
+  vertical-align: middle;
+}
+
+ .clip {
+ object-fit: none;
+  object-position: 0 -177;
+  width: 100px;
+  height: 155px;
+  
+}
+
+svg {
+	fill:#312927; 
+	stroke:#DDD3C9; 
+	stroke-width:5; 
+	fill-rule:evenodd;
+	float: right;
+}
+
+#wrapper {width:80%;
+		  margin-right: auto;
+		  color:#000000;
+		  background-color: #4B332F;
+		  min-width:700px;
+		  max-width:1024px;
+		  box-shadow:10px 10px;
+		  margin-left:auto;	 }
+
+
